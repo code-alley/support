@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600);
+/*------------------------------------------------------------------------------------------------------------------- */
+/* CUSTOM EDITOR CSS ------------------------------------------------------------------------------------------------ */
+/*------------------------------------------------------------------------------------------------------------------- */
+body#tinymce.wp-editor {
+  font-family: "Open Sans", sans-serif;
+  line-height: 22px;
+  color: #6f7579;
+}
+body#tinymce.wp-editor h1, body#tinymce.wp-editor h2, body#tinymce.wp-editor h3, body#tinymce.wp-editor h4, body#tinymce.wp-editor h5, body#tinymce.wp-editor h6 {
+  color: #3b4348;
+}
+body#tinymce.wp-editor p {
+  margin-bottom: 22px;
+}
+body#tinymce.wp-editor a {
+  color: #3b4348;
+  text-decoration: none;
+}

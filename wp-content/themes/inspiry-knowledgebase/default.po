@@ -1,0 +1,1433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Knowledge Base Theme\n"
+"POT-Creation-Date: 2015-03-04 11:50+0500\n"
+"PO-Revision-Date: 2015-03-04 11:54+0500\n"
+"Last-Translator: Saqib <saqib@inspirythemes.com>\n"
+"Language-Team: Saqib <saqib@inspirythemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#: 404.php:13
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:14
+msgid "The page you are looking for is not here!"
+msgstr ""
+
+#: 404.php:15
+msgid "Please try search for what you are looking for!"
+msgstr ""
+
+#: admin/admin-interface.php:20
+msgid "Theme Options"
+msgstr ""
+
+#: admin/admin-interface.php:143
+msgid "SAVE ALL CHANGES"
+msgstr ""
+
+#: admin/admin-interface.php:148
+msgid "RESET"
+msgstr ""
+
+#: admin/admin-interface.php:1000
+msgid "Upload Image"
+msgstr ""
+
+#: admin/admin-interface.php:1004
+msgid "Remove"
+msgstr ""
+
+#: admin/theme-settings.php:60
+msgid "Select a Tag"
+msgstr ""
+
+#: admin/theme-settings.php:94
+msgid "Header"
+msgstr ""
+
+#: admin/theme-settings.php:99
+msgid "Logo"
+msgstr ""
+
+#: admin/theme-settings.php:100
+msgid "Upload logo for your Website."
+msgstr ""
+
+#: admin/theme-settings.php:106
+msgid "Favicon"
+msgstr ""
+
+#: admin/theme-settings.php:107
+msgid ""
+"Upload a 16px by 16px PNG image that will represent your website favicon."
+msgstr ""
+
+#: admin/theme-settings.php:112
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/theme-settings.php:113
+msgid "Paste Google Analytics (or other) tracking code here."
+msgstr ""
+
+#: admin/theme-settings.php:121
+msgid "Homepage"
+msgstr ""
+
+#: admin/theme-settings.php:125
+msgid "Featured Articles Title"
+msgstr ""
+
+#: admin/theme-settings.php:128 template-home-categories-description.php:62
+#: template-parts/basic-home-template.php:52
+#: widgets/featured-articles-widget.php:56
+msgid "Featured Articles"
+msgstr ""
+
+#: admin/theme-settings.php:131
+msgid "Choose a tag for homepage featured articles."
+msgstr ""
+
+#: admin/theme-settings.php:132
+msgid ""
+"Homepage featured articles sections will display articles based on selected "
+"tag."
+msgstr ""
+
+#: admin/theme-settings.php:138
+msgid "Latest Articles Title"
+msgstr ""
+
+#: admin/theme-settings.php:141 template-home-categories-description.php:86
+#: template-parts/basic-home-template.php:76
+#: widgets/latest-articles-widget.php:46
+msgid "Latest Articles"
+msgstr ""
+
+#: admin/theme-settings.php:144
+msgid "Number of articles to display"
+msgstr ""
+
+#: admin/theme-settings.php:145
+msgid ""
+"Number of articles to display for latest and featured section on homepage."
+msgstr ""
+
+#: admin/theme-settings.php:159
+msgid "Select Categories"
+msgstr ""
+
+#: admin/theme-settings.php:160
+msgid "Select categories that you want to display on homepage."
+msgstr ""
+
+#: admin/theme-settings.php:165
+msgid "Number of articles to display for each category"
+msgstr ""
+
+#: admin/theme-settings.php:166
+msgid ""
+"Number of articles to display for each category on Homepage Template with "
+"Category and Article List."
+msgstr ""
+
+#: admin/theme-settings.php:173
+msgid "Search Area"
+msgstr ""
+
+#: admin/theme-settings.php:177
+msgid "Search Area Title"
+msgstr ""
+
+#: admin/theme-settings.php:178
+msgid "Provide the search area title text here."
+msgstr ""
+
+#: admin/theme-settings.php:180
+msgid "Have a Question?"
+msgstr ""
+
+#: admin/theme-settings.php:183
+msgid "Text Below Title"
+msgstr ""
+
+#: admin/theme-settings.php:184
+msgid "This text will appear below search area main title."
+msgstr ""
+
+#: admin/theme-settings.php:186
+msgid ""
+"If you have any question you can ask below or enter what you are looking for!"
+msgstr ""
+
+#: admin/theme-settings.php:192
+msgid "Styling"
+msgstr ""
+
+#: admin/theme-settings.php:196
+msgid "Body Background"
+msgstr ""
+
+#: admin/theme-settings.php:202
+msgid "Color Skin"
+msgstr ""
+
+#: admin/theme-settings.php:203
+msgid "Choose one of the available color skins."
+msgstr ""
+
+#: admin/theme-settings.php:214
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/theme-settings.php:215
+msgid "Choose a Body Text Color. Base Theme Color is #6f7579"
+msgstr ""
+
+#: admin/theme-settings.php:220
+msgid "Headings Color"
+msgstr ""
+
+#: admin/theme-settings.php:221
+msgid ""
+"Choose a Color for h1, h2, h3, h4, h5 and h6 tags. Base Theme Color is "
+"#3b4348"
+msgstr ""
+
+#: admin/theme-settings.php:226
+msgid "Link Color"
+msgstr ""
+
+#: admin/theme-settings.php:227
+msgid "Choose a Link Color. Base Theme Color is #3b4348"
+msgstr ""
+
+#: admin/theme-settings.php:232
+msgid "Link Hover Color"
+msgstr ""
+
+#: admin/theme-settings.php:233
+msgid "Choose a Link Hover Color. Base Theme Color is #395996"
+msgstr ""
+
+#: admin/theme-settings.php:238
+msgid "Quick CSS"
+msgstr ""
+
+#: admin/theme-settings.php:239
+msgid ""
+"Just want to do some quick CSS changes? Enter them here, they will be "
+"applied to the theme. If you need to change major portions of the theme "
+"please use the \"css/custom.css\" file."
+msgstr ""
+
+#: admin/theme-settings.php:248
+msgid "Contact"
+msgstr ""
+
+#: admin/theme-settings.php:253
+msgid "Contact Email"
+msgstr ""
+
+#: admin/theme-settings.php:254
+msgid ""
+"Enter target email address that will receive messages from contact form."
+msgstr ""
+
+#: admin/theme-settings.php:262
+msgid "Social Navigation"
+msgstr ""
+
+#: admin/theme-settings.php:266
+msgid "Do you want to show social navigation in footer ?"
+msgstr ""
+
+#: admin/theme-settings.php:267
+msgid "Yes"
+msgstr ""
+
+#: admin/theme-settings.php:272
+msgid "Facebook"
+msgstr ""
+
+#: admin/theme-settings.php:273
+msgid "Provide Facebook link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:278
+msgid "Twitter"
+msgstr ""
+
+#: admin/theme-settings.php:279
+msgid "Provide Twitter link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:284
+msgid "RSS"
+msgstr ""
+
+#: admin/theme-settings.php:285
+msgid "Provide RSS link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:290
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/theme-settings.php:291
+msgid "Provide LinkedIn link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:296
+msgid "StumbleUpon"
+msgstr ""
+
+#: admin/theme-settings.php:297
+msgid ""
+"Provide StumbleUpon link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:302
+msgid "Google"
+msgstr ""
+
+#: admin/theme-settings.php:303
+msgid "Provide Google link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:308
+msgid "Deviant Art"
+msgstr ""
+
+#: admin/theme-settings.php:309
+msgid ""
+"Provide Deviant Art link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:314
+msgid "Flickr"
+msgstr ""
+
+#: admin/theme-settings.php:315
+msgid "Provide Flickr link to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:320
+msgid "Skype ID"
+msgstr ""
+
+#: admin/theme-settings.php:321
+msgid "Provide Your Skype ID to display its icon in footer social navigation."
+msgstr ""
+
+#: admin/theme-settings.php:327
+msgid "Footer"
+msgstr ""
+
+#: admin/theme-settings.php:331
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/theme-settings.php:332
+msgid "Enter Footer Copyright Text here."
+msgstr ""
+
+#: archive.php:17
+msgid "All posts in"
+msgstr ""
+
+#: archive.php:23
+msgid "All posts tagged "
+msgstr ""
+
+#: archive.php:29 archive.php:35 archive.php:41
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:48
+msgid "All posts by"
+msgstr ""
+
+#: archive.php:54
+msgid "Archives"
+msgstr ""
+
+#: archive.php:68 search.php:62
+msgid "No Result Found!"
+msgstr ""
+
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:14
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:14
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:14
+msgid "(%) Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:48
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:48
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:55
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: comments.php:62
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: comments.php:62
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:66
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: comments.php:69
+msgid "Name"
+msgstr ""
+
+#: comments.php:69 comments.php:74
+msgid "*"
+msgstr ""
+
+#: comments.php:74
+msgid "Email"
+msgstr ""
+
+#: comments.php:79
+msgid "Website"
+msgstr ""
+
+#: comments.php:86
+msgid "Comment"
+msgstr ""
+
+#: comments.php:90
+msgid "You can use these HTML tags and attributes"
+msgstr ""
+
+#: comments.php:93
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:320
+msgid "First"
+msgstr ""
+
+#: functions.php:321
+msgid "Previous"
+msgstr ""
+
+#: functions.php:330
+msgid "Next"
+msgstr ""
+
+#: functions.php:331
+msgid "Last"
+msgstr ""
+
+#: functions.php:368
+msgid "Tag: "
+msgstr ""
+
+#: functions.php:375
+msgid "404 - Page not Found"
+msgstr ""
+
+#: functions.php:382
+msgid "Search"
+msgstr ""
+
+#: functions.php:434
+msgid "Action failed due to some server issue!"
+msgstr ""
+
+#: functions.php:439
+msgid "Already Liked!"
+msgstr ""
+
+#: functions.php:444
+msgid "Invalid Parameters!"
+msgstr ""
+
+#: functions.php:529
+msgid "Read more"
+msgstr ""
+
+#: functions.php:551 index.php:21
+msgid "No Articles Found!"
+msgstr ""
+
+#: functions/contact_form_handler.php:23
+msgid "Unverified Nonce!"
+msgstr ""
+
+#: functions/contact_form_handler.php:34
+msgid "Target Email address is not properly configured!"
+msgstr ""
+
+#: functions/contact_form_handler.php:49
+msgid "Provided Email address is invalid!"
+msgstr ""
+
+#: functions/contact_form_handler.php:54
+msgid "New message sent by"
+msgstr ""
+
+#: functions/contact_form_handler.php:54
+msgid "using contact form at"
+msgstr ""
+
+#: functions/contact_form_handler.php:56
+msgid "You have Received a message from: "
+msgstr ""
+
+#: functions/contact_form_handler.php:58
+msgid "Their additional message is as follows."
+msgstr ""
+
+#: functions/contact_form_handler.php:62
+msgid "You can contact"
+msgstr ""
+
+#: functions/contact_form_handler.php:62
+msgid "via email,"
+msgstr ""
+
+#: functions/contact_form_handler.php:73
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: functions/contact_form_handler.php:78
+msgid "Server Error: WordPress mail function failed!"
+msgstr ""
+
+#: functions/contact_form_handler.php:87
+msgid "Invalid Request !"
+msgstr ""
+
+#: functions/load_theme_scripts.php:38
+msgid "Go to..."
+msgstr ""
+
+#: functions/theme_comment.php:18
+msgid "Pingback:"
+msgstr ""
+
+#: functions/theme_comment.php:18
+msgid "(Edit)"
+msgstr ""
+
+#: functions/theme_comment.php:35 widgets/twitter-widget.php:99
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions/theme_comment.php:42
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions/theme_comment.php:52
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/theme_comment.php:57
+msgid "Edit"
+msgstr ""
+
+#: header.php:120
+msgid "Type your search terms here"
+msgstr ""
+
+#: header.php:120
+msgid "* Please enter a search term!"
+msgstr ""
+
+#: include/faq-post-type.php:7
+msgid "FAQs"
+msgstr ""
+
+#: include/faq-post-type.php:8
+msgid "FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:9
+msgid "Add New"
+msgstr ""
+
+#: include/faq-post-type.php:10
+msgid "Add New FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:11
+msgid "Edit FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:12
+msgid "New FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:13
+msgid "View FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:14
+msgid "Search FAQ"
+msgstr ""
+
+#: include/faq-post-type.php:15
+msgid "No FAQs found"
+msgstr ""
+
+#: include/faq-post-type.php:16
+msgid "No FAQs found in Trash"
+msgstr ""
+
+#: include/faq-post-type.php:32
+msgid "faq"
+msgstr ""
+
+#: include/meta-boxes.php:14
+msgid "Video Settings"
+msgstr ""
+
+#: include/meta-boxes.php:28
+msgid "Embed Code"
+msgstr ""
+
+#: include/meta-boxes.php:29
+msgid ""
+"If you are not using self hosted videos then please provide the video embed "
+"code and remove the the width and height attributes."
+msgstr ""
+
+#: one-click-demo-install/importer/parsers.php:42
+#: one-click-demo-install/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: one-click-demo-install/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: one-click-demo-install/importer/parsers.php:67
+#: one-click-demo-install/importer/parsers.php:72
+#: one-click-demo-install/importer/parsers.php:262
+#: one-click-demo-install/importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: one-click-demo-install/importer/radium-importer.php:210
+msgid "Demo already imported"
+msgstr ""
+
+#: one-click-demo-install/importer/radium-importer.php:230
+msgid "Import Again"
+msgstr ""
+
+#: one-click-demo-install/importer/radium-importer.php:234
+msgid "Import Demo Data"
+msgstr ""
+
+#: one-click-demo-install/importer/radium-importer.php:437
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: one-click-demo-install/importer/radium-importer.php:495
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: one-click-demo-install/importer/radium-importer.php:568
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: one-click-demo-install/importer/radium-importer.php:590
+msgid "Site does not support widget"
+msgstr ""
+
+#: one-click-demo-install/importer/radium-importer.php:613
+msgid "Widget already exists"
+msgstr ""
+
+#: one-click-demo-install/importer/radium-importer.php:662
+msgid "Imported"
+msgstr ""
+
+#: one-click-demo-install/importer/radium-importer.php:665
+msgid "Imported to Inactive"
+msgstr ""
+
+#: one-click-demo-install/importer/radium-importer.php:672
+msgid "No Title"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:134
+#: one-click-demo-install/importer/wordpress-importer.php:143
+#: one-click-demo-install/importer/wordpress-importer.php:194
+#: one-click-demo-install/importer/wordpress-importer.php:198
+#: one-click-demo-install/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:505
+#: one-click-demo-install/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: one-click-demo-install/importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: search.php:34
+msgid "No Results Found!"
+msgstr ""
+
+#: search.php:52
+msgid "Search Results for"
+msgstr ""
+
+#: single.php:30 template-parts/article-for-listing.php:25
+msgid "0 Comments"
+msgstr ""
+
+#: single.php:30 template-parts/article-for-listing.php:25
+msgid "1 Comment"
+msgstr ""
+
+#: single.php:30 template-parts/article-for-listing.php:25
+msgid "% Comments"
+msgstr ""
+
+#: single.php:60
+msgid "Tags:"
+msgstr ""
+
+#: template-contact.php:46
+msgid "Your Name"
+msgstr ""
+
+#: template-contact.php:49
+msgid "* Please provide your name"
+msgstr ""
+
+#: template-contact.php:53
+msgid "Your Email"
+msgstr ""
+
+#: template-contact.php:56
+msgid "* Please provide a valid email address"
+msgstr ""
+
+#: template-contact.php:60
+msgid "Subject"
+msgstr ""
+
+#: template-contact.php:67
+msgid "Your Message"
+msgstr ""
+
+#: template-contact.php:70
+msgid "* Please enter your message"
+msgstr ""
+
+#: template-contact.php:76
+msgid "Send Message"
+msgstr ""
+
+#: template-home-categories-articles.php:24
+#: template-home-categories-description.php:100
+msgid "Categories"
+msgstr ""
+
+#: template-home-categories-articles.php:56
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: template-parts/article-for-widget.php:17
+msgid "in"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:164 tgm/plugins-list.php:43
+msgid "Install Required Plugins"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:165 tgm/plugins-list.php:44
+msgid "Install Plugins"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:166 tgm/plugins-list.php:45
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:168 tgm/plugins-list.php:47
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:169 tgm/plugins-list.php:48
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:170 tgm/plugins-list.php:49
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:171 tgm/plugins-list.php:50
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:172 tgm/plugins-list.php:51
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:173 tgm/plugins-list.php:52
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:174 tgm/plugins-list.php:53
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:175 tgm/plugins-list.php:54
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:176 tgm/plugins-list.php:55
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:177 tgm/plugins-list.php:56
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:178
+#: tgm/class-tgm-plugin-activation.php:490 tgm/plugins-list.php:57
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:179
+#: tgm/class-tgm-plugin-activation.php:1846 tgm/plugins-list.php:58
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:517
+#: tgm/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1956
+#: tgm/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1956
+#: tgm/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm/plugins-list.php:46
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: tgm/plugins-list.php:59
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: widgets/featured-articles-widget.php:9
+msgid "This widget displays featured articles."
+msgstr ""
+
+#: widgets/featured-articles-widget.php:10
+msgid "Knowledge Base - Featured Articles"
+msgstr ""
+
+#: widgets/featured-articles-widget.php:63
+#: widgets/latest-articles-widget.php:53 widgets/support-widget.php:53
+#: widgets/twitter-widget.php:128
+msgid "Widget Title"
+msgstr ""
+
+#: widgets/featured-articles-widget.php:67
+#: widgets/latest-articles-widget.php:57
+msgid "Number of Articles"
+msgstr ""
+
+#: widgets/flickr-widget.php:54
+msgid ""
+"No \"type\" parameter has been setup. Check your settings, or provide the "
+"parameter as an argument."
+msgstr ""
+
+#: widgets/flickr-widget.php:93
+msgid "Display Photos From Flickr"
+msgstr ""
+
+#: widgets/flickr-widget.php:94
+msgid "Knowledge Base - Flickr Photos"
+msgstr ""
+
+#: widgets/flickr-widget.php:99
+msgid "Flickr Photos"
+msgstr ""
+
+#: widgets/flickr-widget.php:107
+msgid "Title"
+msgstr ""
+
+#: widgets/flickr-widget.php:112
+msgid "Flickr ID"
+msgstr ""
+
+#: widgets/flickr-widget.php:114
+msgid "Example"
+msgstr ""
+
+#: widgets/flickr-widget.php:118
+msgid "Number of Photos"
+msgstr ""
+
+#: widgets/latest-articles-widget.php:9
+msgid "This widget displays latest articles."
+msgstr ""
+
+#: widgets/latest-articles-widget.php:10
+msgid "Knowledge Base - Latest Articles"
+msgstr ""
+
+#: widgets/quick-links-widget.php:9
+msgid ""
+"Use this widget to add one of your custom menus as Quick Links widget in "
+"Knowledge Base Theme."
+msgstr ""
+
+#: widgets/quick-links-widget.php:10
+msgid "Knowledge Base - Quick Links Widget"
+msgstr ""
+
+#: widgets/quick-links-widget.php:43
+msgid "Quick Links"
+msgstr ""
+
+#: widgets/quick-links-widget.php:51
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: widgets/quick-links-widget.php:56
+msgid "Title:"
+msgstr ""
+
+#: widgets/quick-links-widget.php:60
+msgid "Select Menu:"
+msgstr ""
+
+#: widgets/support-widget.php:9
+msgid "This widget displays information related to further support options."
+msgstr ""
+
+#: widgets/support-widget.php:10
+msgid "Knowledge Base - Support Widget"
+msgstr ""
+
+#: widgets/support-widget.php:46
+msgid "Support"
+msgstr ""
+
+#: widgets/support-widget.php:46
+msgid ""
+"Need more support? If you did not found an answer, contact us for further "
+"help."
+msgstr ""
+
+#: widgets/support-widget.php:57
+msgid "Support Text"
+msgstr ""
+
+#: widgets/twitter-widget.php:9
+msgid "This widget displays latest tweets from your twitter account."
+msgstr ""
+
+#: widgets/twitter-widget.php:10
+msgid "Knowledge Base - Latest Tweets"
+msgstr ""
+
+#: widgets/twitter-widget.php:95
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: widgets/twitter-widget.php:97
+msgid "jS M Y"
+msgstr ""
+
+#: widgets/twitter-widget.php:115
+msgid "Latest Tweets"
+msgstr ""
+
+#: widgets/twitter-widget.php:132
+msgid "Twitter Username"
+msgstr ""
+
+#: widgets/twitter-widget.php:136
+msgid "Number of tweets"
+msgstr ""
+
+#: widgets/twitter-widget.php:140
+msgid "Consumer Key"
+msgstr ""
+
+#: widgets/twitter-widget.php:144
+msgid "Consumer Secret"
+msgstr ""
+
+#: widgets/twitter-widget.php:148
+msgid "Access Token"
+msgstr ""
+
+#: widgets/twitter-widget.php:152
+msgid "Access Token Secret"
+msgstr ""

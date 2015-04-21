@@ -1,0 +1,26 @@
+@import "variables";
+@import "mixins";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600);
+
+/*------------------------------------------------------------------------------------------------------------------- */
+/* CUSTOM EDITOR CSS ------------------------------------------------------------------------------------------------ */
+/*------------------------------------------------------------------------------------------------------------------- */
+body#tinymce.wp-editor {
+
+  font-family: $baseFontFamily;
+  line-height: $baseLineHeight;
+  color: $textColor;
+
+  h1,h2,h3,h4,h5,h6{
+    color: $headingsColor;
+  }
+
+  p {
+    margin-bottom: $baseLineHeight;
+  }
+
+  a{
+    color: $linkColor;
+    text-decoration: none;
+  }
+}

@@ -1,0 +1,263 @@
+/*------------------------------------------------------------------------------------------------------------------- */
+/* Responsive: Tablet to desktop ------------------------------------------------------------------------------------ */
+/*------------------------------------------------------------------------------------------------------------------- */
+@media (min-width: 768px) and (max-width: 979px) {
+
+  .search-area-wrapper{
+    background-size: auto;
+  }
+
+  .article-entry .article-meta{
+    margin-bottom: 5px;
+  }
+
+  .article-entry .like-count {
+    /*position: static;
+    border: 0;
+    bottom: auto;
+    right: auto;
+    padding: 0;
+    margin-bottom: 8px;*/
+    display: none !important;
+  }
+
+  .articles-list > h3 span{
+    display: none;
+  }
+
+  /* Custom Padding Adjustment For Desktop */
+  $container_horiz_pad : 20px;
+
+  .page-container{
+    > .container{
+      padding:40px $container_horiz_pad;
+    }
+  }
+
+  #footer-wrapper{
+    > #footer{
+      padding: 20px $container_horiz_pad;
+    }
+  }
+
+  #footer-bottom-wrapper{
+    > #footer-bottom{
+      padding: 15px $container_horiz_pad 10px;
+    }
+  }
+
+  .quick-links-widget .menu > li{
+    float: none;
+    width: auto;
+    margin-right: 0;
+  }
+
+}
+
+
+
+/*------------------------------------------------------------------------------------------------------------------- */
+/* Responsive: Header for devices below desktop --------------------------------------------------------------------- */
+/*------------------------------------------------------------------------------------------------------------------- */
+@media (max-width: 979px) {
+
+  /* logo */
+  .logo-container{
+    text-align: center;
+    padding: 10px 0;
+    img{
+      display: block;
+      margin: 10px auto 5px;
+    }
+  }
+
+  span.tag-line{
+    color: #818a90;
+    font-size: 12px;
+    display: block;
+    text-align: center;
+  }
+
+  .logo-heading{
+    display: block;
+    position: static;
+    top: auto;
+    text-align: center;
+  }
+
+  /* Navigation */
+  .main-nav{
+    position: static;
+    top: auto;
+    right: auto;
+    > div > ul{
+      text-align: center;
+      > li{
+        float: none;
+        display: inline-block;
+        .sub-menu{
+          text-align: left;
+          top:55px;
+          li{
+            width:130px;
+          }
+          .sub-menu{
+            right: auto;
+            left: 150px;
+          }
+        }
+    }
+    }
+  }
+
+  /* Flickr */
+  .flickr-photos{
+    margin-left: -10px;
+    img{
+      width: 67px;
+      height: 67px;
+    }
+  }
+}
+
+
+/*------------------------------------------------------------------------------------------------------------------- */
+/* Responsive: Landscape phone to desktop/tablet -------------------------------------------------------------------- */
+/*------------------------------------------------------------------------------------------------------------------- */
+@media (max-width: 767px) {
+
+/* Navigation */
+  .main-nav{
+
+    > div{
+      display: none;
+    }
+
+    .responsive-nav{
+      display: block;
+      width: 85%;
+      margin: 10px auto;
+      padding: auto;
+      border-radius: 0;
+      border: none;
+    }
+
+  }
+
+
+
+  /* Search Area */
+  .search-area-wrapper {
+    background-size: auto;
+    min-height: 240px;
+    height:auto !important;
+    height: 240px;
+
+    .search-area{
+      padding: 20px 0;
+    }
+
+    h3.search-header{
+      font-size: 30px;
+      padding: 0 15px;
+    }
+
+    p.search-tag-line{
+      padding: 0 15px;
+      font-size: 14px;
+      line-height: 22px;
+    }
+
+    form.search-form{
+      input.search-term{
+        width: 60%;
+      }
+      input.search-btn{
+
+      }
+    }
+
+  }
+
+  /* Comments */
+  .commentlist{
+    li.comment {
+      .children{
+        margin-left: 0;
+      }
+    }
+  }
+
+  .social-nav{
+    > li{
+      float: left;
+      margin: 0;
+      margin-right: 4px;
+    }
+  }
+
+  .hentry .post-meta .like-count{
+    float: none;
+  }
+
+  .page-404{
+    h1.title-404{
+      font-size: 100px;
+      line-height: 105px;
+      margin: 15px;
+    }
+  }
+}
+
+
+
+/*------------------------------------------------------------------------------------------------------------------- */
+/* Responsive: Portrait Phones -------------------------------------------------------------------------------------- */
+/*------------------------------------------------------------------------------------------------------------------- */
+@media (max-width: 480px) {
+
+  a#scroll-top{
+    display: none !important;
+  }
+  .page-container > .container{
+    padding: 20px 15px;
+  }
+
+  #footer-bottom-wrapper > #footer-bottom,
+  #footer-wrapper > #footer{
+    padding: 20px 15px;
+  }
+  /* Search Area */
+  .search-area-wrapper {
+
+    form.search-form{
+      input.search-term{
+        width: 80%;
+        display: block;
+        margin: 0 auto 10px;
+      }
+      input.search-btn{
+        display: block;
+        margin: 0 auto;
+      }
+    }
+
+  }
+
+
+  .article-entry .like-count {
+    display: none !important;
+  }
+
+  #jquery-live-search #live-search-results{
+    width: 248px;
+  }
+}
+
+/* Menu Fix for resizing to Bigger Screen sizes */
+@media (min-width: 980px) {
+  .main-nav div > ul > li{
+    float: none;
+    display: inline-block;
+  }
+}

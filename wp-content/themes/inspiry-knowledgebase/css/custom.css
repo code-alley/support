@@ -1,0 +1,13 @@
+/* Custom CSS File for Buyers to Modify */
+
+.category-blog.category-46 h1.archive-title {
+    display: none;
+}
+
+.list-dwqa-question .dw-question p.not-found {
+    display: none;
+}
+
+.submit-dwqa-question .dwqa-submit-question a#insert-media-button {
+    margin-bottom: 10px;
+}

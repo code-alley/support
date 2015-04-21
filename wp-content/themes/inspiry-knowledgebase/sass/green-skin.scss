@@ -1,0 +1,134 @@
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* -------------------------------------------------- Green Skin ---------------------------------------------------- */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+
+/* Header ---------------------------------------------------------------------------------------------------------*/
+.header-wrapper{
+  background-color: #4fb084;
+}
+
+span.tag-line{
+  color: #ddf6e9;
+}
+
+.main-nav div > ul > li a{
+  color: #ddf6e9;
+}
+
+.main-nav .sub-menu li{
+  background-color: #34996c;
+  &:hover{
+    background-color: darken(#34996c,10%);
+  }
+}
+
+.search-area-wrapper{
+  background-image: url("green-skin/green-bg.jpg");
+  background-color: #229d8e;
+  form.search-form input.search-btn{
+    background-color: #4fb081;
+    &:hover{
+      background-color: darken(#4fb081,3%);
+    }
+  }
+}
+
+/* Footer ------------------------------------------------------------------------------------------------------------*/
+#footer-wrapper{
+  background-image: url("green-skin/footer-bg.png");
+}
+
+#footer-bottom-wrapper{
+  background-color: #2c493c;
+}
+
+#footer .widget{
+  color: #7baa94;
+}
+
+#footer .widget a{
+  color: #fff;
+}
+
+#footer .widget ul li{
+  border-color: #3c614f;
+}
+
+#footer .widget #twitter_update_list > ul > li span{
+  color: #537465;
+}
+
+#footer-bottom .copyright{
+  color: #6c9683;
+}
+
+.flickr-photos{
+  img{
+    background-color: #6c9683;
+    &:hover{
+      background-color: lighten(#6c9683, 15%);
+    }
+  }
+}
+
+.social-nav{
+  li.facebook a{
+    background-image: url("green-skin/facebook.png");
+  }
+  li.deviantart a{
+    background-image: url("green-skin/devine-art.png");
+  }
+  li.flickr a{
+    background-image: url("green-skin/flickr.png");
+  }
+  li.google a{
+    background-image: url("green-skin/google.png");
+  }
+  li.linkedin a{
+    background-image: url("green-skin/linked-in.png");
+  }
+  li.rss a{
+    background-image: url("green-skin/rss.png");
+  }
+  li.skype a{
+    background-image: url("green-skin/skype.png");
+  }
+  li.stumble a{
+    background-image: url("green-skin/stumble.png");
+  }
+  li.twitter a{
+    background-image: url("green-skin/twitter.png");
+  }
+}
+
+a#scroll-top{
+  background-color:darken(#4fb084,10%);
+  &:hover{
+    background-color:darken(#4fb084,5%);
+  }
+}
+
+.tabs-nav li.active a {
+  color: #4fb084;
+  border-top: 2px solid #4fb084;
+}
+
+.toggle dt span,
+.accordion dt span {
+  background-image: url("green-skin/plus-minus.png");
+}
+
+.faq-icon{
+  background-image: url("green-skin/faq-plus.png");
+}
+
+.faq-item.active .faq-icon{
+  background-image: url("green-skin/faq-minus.png");
+}
+
+.faq-item.active{
+  h3.faq-question{
+    color: #3b4348;
+  }
+}
