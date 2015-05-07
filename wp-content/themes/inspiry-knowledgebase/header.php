@@ -117,7 +117,7 @@
                 <p class="search-tag-line"><?php echo $theme_search_text; ?></p>
 
                 <form id="search-form" class="search-form clearfix" method="get" action="<?php echo home_url('/'); ?>" autocomplete="off">
-                    <input class="search-term required" type="text" id="s" name="s" placeholder="<?php _e('Type your search terms here','framework');?>" title="<?php _e('* Please enter a search term!','framework');?>" />
+                    <input class="search-term required" type="text" id="s" name="s" placeholder="<?php _e('Enter your search text here','framework');?>" title="<?php _e('* Please enter a search term!','framework');?>" />
                     <input class="search-btn" type="submit" value="Search" />
                     <div id="search-error-container"></div>
                 </form>
